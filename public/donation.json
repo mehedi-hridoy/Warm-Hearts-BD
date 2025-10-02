@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "title": "Warm Blankets for Sylhet Villages",
+    "image": "https://tzuchi-en-backend.storage.googleapis.com/content/images/2024/03/2-780.jpg",
+    "description": "Collecting heavy blankets for senior citizens and children in remote Sylhet villages.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000111, sylhet-volunteers@example.com",
+    "division": "Sylhet"
+  },
+  {
+    "id": 2,
+    "title": "Jackets Drive — Rangpur Schools",
+    "image": "https://dkprodimages.gumlet.io/campaign/6248/atp5-01%20WINC.jpg?format=webp&w=400&dpr=2.6",
+    "description": "Providing winter jackets to school children in Rangpur district.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000222, rangpur-help@example.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 3,
+    "title": "Blankets & Shawls — Chittagong Port Area",
+    "image": "https://assets.telegraphindia.com/telegraph/2020/Dec/1606938238_03dhanbad2_5c.jpg",
+    "status": "Planned",
+    "contactInfo": "+8801711000333, chitta-cares@example.com",
+    "division": "Chittagong"
+  },
+  {
+    "id": 4,
+    "title": "Dhaka Night Shelter Clothing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHiFOp2_PnRq8MlY-pdfJYr0tDXhc3YCHbkA&s",
+    "description": "Collecting clean coats and sweaters for Dhaka night shelters.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000444, dhaka-shelter@example.com",
+    "division": "Dhaka"
+  },
+  {
+    "id": 5,
+    "title": "Mymensingh Community Warmth Program",
+    "image": "https://cdn.risingbd.com/media/imgAll/2025January/en/Hasan-2501220800.jpg",
+    "description": "Local volunteers distributing blankets in rural Mymensingh.",
+    "status": "Completed",
+    "contactInfo": "+8801711000555, mymensingh-team@example.com",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 6,
+    "title": "Barishal Cold Relief",
+    "image": "https://sokalershironam.com/public/postimages/676a9b8489fca.jpg",
+    "description": "Collecting sweaters and woolen hats for elderly people in Barishal.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000666, barishal-relief@example.com",
+    "division": "Barishal"
+  },
+  {
+    "id": 7,
+    "title": "Khulna Winter Aid",
+    "image": "https://cdn.amarsangbad.com/images/2022/01/27/atrr.jpg",
+    "description": "Distributing winter clothes to day laborers and street children in Khulna city.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000777, khulna-aid@example.com",
+    "division": "Khulna"
+  },
+  {
+    "id": 8,
+    "title": "Rajshahi Blanket Collection",
+    "image": "https://cdn.jugantor.com/assets/news_photos/2022/12/23/image-627642-1671750162.jpg",
+    "description": "Collecting donations to provide blankets to farmers in Rajshahi during cold nights.",
+    "status": "Planned",
+    "contactInfo": "+8801711000888, rajshahi-relief@example.com",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 9,
+    "title": "Sylhet Tea Worker Support",
+    "image": "https://www.bwhc.org.bd/wp-content/uploads/2022/12/Blanket-distribution_03-places-6-1024x576.jpg",
+    "description": "Distributing warm shawls to tea garden workers in Sylhet.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711000999, tea-support@example.com",
+    "division": "Sylhet"
+  },
+  {
+    "id": 10,
+    "title": "Rangpur Elderly Protection",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCoIlNtxPLpj1SLRqD21G5Mxo7B7RZCfqKUI5S7hT9wss5f_sPTtagTxtzoAeRivTRZA&usqp=CAU",
+    "description": "Providing woolen caps and blankets to elderly in Rangpur villages.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001000, rangpur-old@example.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 11,
+    "title": "Chittagong Hill Tracts Warmth",
+    "image": "https://www.epfngo.org/wp-content/uploads/2021/03/cloth.jpg",
+    "description": "Collecting donations for indigenous families in Bandarban and Khagrachhari.",
+    "status": "Planned",
+    "contactInfo": "+8801711001111, cht-help@example.com",
+    "division": "Chittagong"
+  },
+  {
+    "id": 12,
+    "title": "Street Children Dhaka Drive",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksN1FFfO1Df7Xkqw2v8pAUzwLjHEy_TwxUw&s",
+    "description": "Winter clothes for homeless children in Dhaka railway stations and bus stands.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001222, dhaka-street@example.com",
+    "division": "Dhaka"
+  },
+  {
+    "id": 13,
+    "title": "Mymensingh School Sweater Donation",
+
+    
+    "image": "https://old.bidyanondo.org/uploads/projects/12/Winter-Clothes-Distribution-small-1704364188.jpg",
+    "description": "Providing sweaters to primary school students in rural Mymensingh.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001333, mymensingh-school@example.com",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 14,
+    "title": "Barishal Fishermen Aid",
+    "image": "https://www.globalgiving.org/pfil/61993/ph_61993_242129.jpg",
+    "description": "Warm jackets for fishermen working at night in Barishal rivers.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001444, barishal-fisher@example.com",
+    "division": "Barishal"
+  },
+  {
+    "id": 15,
+    "title": "Khulna Orphanage Clothing Drive",
+    "image": "https://images.donatekart.com/campaign/SweaterDonationDrive-CoverPic.jpg",
+    "description": "Collecting winter clothes for children living in Khulna orphanages.",
+    "status": "Completed",
+    "contactInfo": "+8801711001555, khulna-orphan@example.com",
+    "division": "Khulna"
+  },
+  {
+    "id": 16,
+    "title": "Rajshahi University Student Support",
+    "image": "https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20160606/b083fe955fd618befe8b0a.jpg",
+    "description": "Donation campaign for underprivileged students at Rajshahi University.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001666, raj-uni@example.com",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 17,
+    "title": "Sylhet Homeless Shelter Aid",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQZ_uPbr1_tPpgR591W4ktafineK_rcUQrg&s",
+    "description": "Providing blankets and jackets to homeless shelters in Sylhet city.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001777, sylhet-shelter@example.com",
+    "division": "Sylhet"
+  },
+  {
+    "id": 18,
+    "title": "Rangpur Farmers Assistance",
+    "image": "https://today.thefinancialexpress.com.bd/uploads/1708440577.jpg",
+    "description": "Woolen clothes for farmers working early mornings in Rangpur fields.",
+    "status": "Planned",
+    "contactInfo": "+8801711001888, rangpur-farm@example.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 19,
+    "title": "Chittagong Dock Worker Campaign",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7n9H1Hv3ESoPpLJtg5MDIb8bHBnknjHGWA&s",
+    "description": "Providing heavy jackets for dock workers in cold mornings.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711001999, dock-relief@example.com",
+    "division": "Chittagong"
+  },
+  {
+    "id": 20,
+    "title": "Dhaka Slum Community Winter Relief",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2023/12/14/primary_students.jpeg",
+    "description": "Distributing winter clothes to low-income families in Dhaka slum areas.",
+    "status": "Ongoing",
+    "contactInfo": "+8801711002000, dhaka-slum@example.com",
+    "division": "Dhaka"
+  }
+]

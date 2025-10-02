@@ -1,15 +1,17 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
-import Bar from '../components/Bar';
+import Hero from '../components/Hero';
+import HowItWorks from '../components/HowItWorks';
+import SupportedDivisions from '../components/SupportedDivisions';
+import MainLayout from './MainLayout';
+
 
 const Home = () => {
     return (
-        <div>
-            <nav>
-                <Bar></Bar>
-                <Navbar />
-            </nav>
-        </div>
+        <MainLayout>
+            <Hero />
+            <HowItWorks />
+            <SupportedDivisions />
+        </MainLayout>
     );
 };
 
